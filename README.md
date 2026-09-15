@@ -17,7 +17,7 @@ The project involved analyzing a cleaned dataset containing over 1,200 e-commerc
 
 ## Tools & Techniques
 
-- Data Visualization Tools (Excel / Power BI / Tableau)
+- Data Visualization Tools (Tableau)
 - Data Aggregation
 - Trend Analysis
 - Comparative Analysis
